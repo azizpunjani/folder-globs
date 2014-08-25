@@ -6,5 +6,9 @@
   This enables users to create any directory structure they desire. This is based off code that cgross wrote in the cg-angular generator, \
   I abstracted it out so it can be used independently.",
   "author": "Aziz Punjani", 
-  "private": true
+  "private": true, 
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/azizpunjani/folder-globs"
+  },
 }
