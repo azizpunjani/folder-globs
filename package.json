@@ -1,0 +1,10 @@
+{
+  "name": "folder-globs",
+  "version": "0.0.0",
+  "description": "Using exclusion patterns slows down Grunt significantly instead of creating a set of patterns like '**/*.js' and '!**/node_modules/**' \
+  this method is used to create a set of inclusive patterns for all subdirectories skipping node_modules, bower_components, dist, and any .dirs \
+  This enables users to create any directory structure they desire. This is based off code that cgross wrote in the cg-angular generator, \
+  I abstracted it out so it can be used independently.",
+  "author": "Aziz Punjani", 
+  "private": true
+}
