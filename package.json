@@ -7,5 +7,6 @@
     "repository": {
         "type": "git",
         "url": "git://github.com/azizpunjani/folder-globs"
-    }
+    },
+    "main": "folder-globs.js"
 }
