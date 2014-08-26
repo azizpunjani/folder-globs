@@ -1,4 +1,3 @@
-//Need to move this file out of public, it needs to be published as a private node module
 var ignoreDirectories;
 var workingDirectory; 
 
